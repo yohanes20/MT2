@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yohanes20.github.io/MT2/sitemap.xml
